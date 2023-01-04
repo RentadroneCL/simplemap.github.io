@@ -1,0 +1,30 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+
+:root{
+  --ifm-color-primary-lightest: #3b82f5;
+  --ifm-color-primary-lighter: #397deb;
+  --ifm-color-primary-light: #306ccc;
+  --ifm-color-primary: #3b82f6;
+  --ifm-color-primary-dark: #1f4685;
+  --ifm-color-primary-darker: #152d53;
+  --ifm-color-primary-darkest: #0b172b;
+}
+h1, h3, p, a {font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;}
+h3.title{
+  padding: 12px;
+  text-align: center; 
+  color: #3b82f6;
+  font-size: 24px;
+  margin: 8px;
+}
+h3.featureTitle{
+  text-align: center; 
+  color: #3b82f6;
+  font-size: 18px;
+}
+
+p.description{
+  text-align: center; 
+  color: #475569;
+  font-size: 15px;
+}

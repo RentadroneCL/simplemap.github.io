@@ -1,0 +1,30 @@
+{
+  "unversionedId": "deployment",
+  "id": "deployment",
+  "title": "Models Deployment",
+  "description": "Deploying a application is relatively easy.",
+  "source": "@site/../docs/DEPLOYMENT.md",
+  "sourceDirName": ".",
+  "slug": "/deployment",
+  "permalink": "/docs/deployment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "deployment",
+    "title": "Models Deployment",
+    "sidebar_label": "Models Deployment"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Precision Agriculture",
+    "permalink": "/docs/precision_agriculture"
+  },
+  "next": {
+    "title": "Contributing guidelines",
+    "permalink": "/docs/contributing"
+  }
+}

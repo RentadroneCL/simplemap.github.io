@@ -1,0 +1,26 @@
+{
+  "unversionedId": "developers",
+  "id": "developers",
+  "title": "Developers",
+  "description": "Help improve our software! We welcome contributions from everyone, whether to add new features, improve speed, fix existing bugs or add support. Check our code of conduct, the contributing guidelines and how decisions are made.",
+  "source": "@site/../docs/DEVELOPERS.md",
+  "sourceDirName": ".",
+  "slug": "/developers",
+  "permalink": "/docs/developers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "developers",
+    "title": "Developers",
+    "sidebar_label": "Developers"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Photovoltaic Fault Detector",
+    "permalink": "/docs/detection_models"
+  }
+}

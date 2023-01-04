@@ -1,0 +1,487 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/hectorb/rentadrone-github/rentadronecl.github.io_dev/v1-website/sidebars.json",
+          "contentPath": "/home/hectorb/rentadrone-github/rentadronecl.github.io_dev/docs",
+          "contentPathLocalized": "/home/hectorb/rentadrone-github/rentadronecl.github.io_dev/v2-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "code_of_conduct",
+              "id": "code_of_conduct",
+              "title": "Code of Conduct",
+              "description": "Our Pledge",
+              "source": "@site/../docs/CODE_OF_CONDUCT.md",
+              "sourceDirName": ".",
+              "slug": "/code_of_conduct",
+              "permalink": "/docs/code_of_conduct",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "id": "code_of_conduct",
+                "title": "Code of Conduct",
+                "sidebar_label": "Code of Conduct"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Contributing guidelines",
+                "permalink": "/docs/contributing"
+              }
+            },
+            {
+              "unversionedId": "contributing",
+              "id": "contributing",
+              "title": "Contributing guidelines",
+              "description": "How to become a contributor and submit your own code",
+              "source": "@site/../docs/CONTRIBUTING.md",
+              "sourceDirName": ".",
+              "slug": "/contributing",
+              "permalink": "/docs/contributing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "id": "contributing",
+                "title": "Contributing guidelines",
+                "sidebar_label": "Contributing guidelines"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Models Deployment",
+                "permalink": "/docs/deployment"
+              },
+              "next": {
+                "title": "Code of Conduct",
+                "permalink": "/docs/code_of_conduct"
+              }
+            },
+            {
+              "unversionedId": "deployment",
+              "id": "deployment",
+              "title": "Models Deployment",
+              "description": "Deploying a application is relatively easy.",
+              "source": "@site/../docs/DEPLOYMENT.md",
+              "sourceDirName": ".",
+              "slug": "/deployment",
+              "permalink": "/docs/deployment",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "id": "deployment",
+                "title": "Models Deployment",
+                "sidebar_label": "Models Deployment"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Precision Agriculture",
+                "permalink": "/docs/precision_agriculture"
+              },
+              "next": {
+                "title": "Contributing guidelines",
+                "permalink": "/docs/contributing"
+              }
+            },
+            {
+              "unversionedId": "detection_models",
+              "id": "detection_models",
+              "title": "Photovoltaic Fault Detector",
+              "description": "Deep learning application for fault detection in photovoltaic plants. Trained detection models that point out where the panel faults are by using radiometric thermal infrared pictures, as well as a tutorial on how to use these algorithms in your own thermal photos. It also shows a step by step to train these models with its own database, in order to properly adjust the model to its particularity.",
+              "source": "@site/../docs/DETECTION_MODELS.md",
+              "sourceDirName": ".",
+              "slug": "/detection_models",
+              "permalink": "/docs/detection_models",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "id": "detection_models",
+                "title": "Photovoltaic Fault Detector",
+                "sidebar_label": "Photovoltaic Fault Detector"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Developers",
+                "permalink": "/docs/developers"
+              },
+              "next": {
+                "title": "Precision Agriculture",
+                "permalink": "/docs/precision_agriculture"
+              }
+            },
+            {
+              "unversionedId": "developers",
+              "id": "developers",
+              "title": "Developers",
+              "description": "Help improve our software! We welcome contributions from everyone, whether to add new features, improve speed, fix existing bugs or add support. Check our code of conduct, the contributing guidelines and how decisions are made.",
+              "source": "@site/../docs/DEVELOPERS.md",
+              "sourceDirName": ".",
+              "slug": "/developers",
+              "permalink": "/docs/developers",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "id": "developers",
+                "title": "Developers",
+                "sidebar_label": "Developers"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "Photovoltaic Fault Detector",
+                "permalink": "/docs/detection_models"
+              }
+            },
+            {
+              "unversionedId": "precision_agriculture",
+              "id": "precision_agriculture",
+              "title": "Precision Agriculture",
+              "description": "Remote sensing has as one of its objectives, to be able to provide useful information in the shortest possible time for decision-making. Therefore, it is considered a fundamental tool in precision agriculture, since it allows the monitoring of crops throughout the growing season, providing timely information as a diagnostic evaluation. This task must identify the factor that operates in a restrictive manner and decide, in a timely manner, on corrective agronomic intervention.",
+              "source": "@site/../docs/PRECISION_AGRICULTURE.md",
+              "sourceDirName": ".",
+              "slug": "/precision_agriculture",
+              "permalink": "/docs/precision_agriculture",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "id": "precision_agriculture",
+                "title": "Precision Agriculture",
+                "sidebar_label": "Precision Agriculture"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Photovoltaic Fault Detector",
+                "permalink": "/docs/detection_models"
+              },
+              "next": {
+                "title": "Models Deployment",
+                "permalink": "/docs/deployment"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "category",
+                "label": "Developers",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "developers"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Detection Models",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "detection_models"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "precision_agriculture"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Models Deployment",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "deployment"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Contributing Guidelines",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "contributing"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Code of Conduct",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "code_of_conduct"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/2017/10/24/new-version-1.0.0",
+          "metadata": {
+            "permalink": "/blog/2017/10/24/new-version-1.0.0",
+            "source": "@site/blog/2017-10-24-new-version-1.0.0.md",
+            "title": "New Version 1.0.0",
+            "description": "This blog post will test file name parsing issues when periods are present.",
+            "date": "2017-10-24T00:00:00.000Z",
+            "formattedDate": "October 24, 2017",
+            "tags": [],
+            "readingTime": 0.065,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Eric Nakagawa",
+                "url": "http://twitter.com/ericnakagawa"
+              }
+            ],
+            "frontMatter": {
+              "title": "New Version 1.0.0",
+              "author": "Eric Nakagawa",
+              "authorURL": "http://twitter.com/ericnakagawa",
+              "authorFBID": 661277173
+            },
+            "nextItem": {
+              "title": "Adding RSS Support",
+              "permalink": "/blog/2017/09/26/adding-rss"
+            }
+          },
+          "content": "This blog post will test file name parsing issues when periods are present."
+        },
+        {
+          "id": "/2017/09/26/adding-rss",
+          "metadata": {
+            "permalink": "/blog/2017/09/26/adding-rss",
+            "source": "@site/blog/2017-09-26-adding-rss.md",
+            "title": "Adding RSS Support",
+            "description": "This is a test post.",
+            "date": "2017-09-26T00:00:00.000Z",
+            "formattedDate": "September 26, 2017",
+            "tags": [],
+            "readingTime": 0.055,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Eric Nakagawa",
+                "url": "http://twitter.com/ericnakagawa"
+              }
+            ],
+            "frontMatter": {
+              "title": "Adding RSS Support",
+              "author": "Eric Nakagawa",
+              "authorURL": "http://twitter.com/ericnakagawa",
+              "authorFBID": 661277173
+            },
+            "prevItem": {
+              "title": "New Version 1.0.0",
+              "permalink": "/blog/2017/10/24/new-version-1.0.0"
+            },
+            "nextItem": {
+              "title": "Adding RSS Support - RSS Truncation Test",
+              "permalink": "/blog/2017/09/25/testing-rss"
+            }
+          },
+          "content": "This is a test post.\n\nA whole bunch of other information."
+        },
+        {
+          "id": "/2017/09/25/testing-rss",
+          "metadata": {
+            "permalink": "/blog/2017/09/25/testing-rss",
+            "source": "@site/blog/2017-09-25-testing-rss.md",
+            "title": "Adding RSS Support - RSS Truncation Test",
+            "description": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+            "date": "2017-09-25T00:00:00.000Z",
+            "formattedDate": "September 25, 2017",
+            "tags": [],
+            "readingTime": 0.065,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Eric Nakagawa",
+                "url": "http://twitter.com/ericnakagawa"
+              }
+            ],
+            "frontMatter": {
+              "title": "Adding RSS Support - RSS Truncation Test",
+              "author": "Eric Nakagawa",
+              "authorURL": "http://twitter.com/ericnakagawa",
+              "authorFBID": 661277173
+            },
+            "prevItem": {
+              "title": "Adding RSS Support",
+              "permalink": "/blog/2017/09/26/adding-rss"
+            },
+            "nextItem": {
+              "title": "New Blog Post",
+              "permalink": "/blog/2017/04/10/blog-post-two"
+            }
+          },
+          "content": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890\n\nThis should be truncated.\n\n<!--truncate-->\n\nThis line should never render in XML."
+        },
+        {
+          "id": "/2017/04/10/blog-post-two",
+          "metadata": {
+            "permalink": "/blog/2017/04/10/blog-post-two",
+            "source": "@site/blog/2017-04-10-blog-post-two.md",
+            "title": "New Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.",
+            "date": "2017-04-10T00:00:00.000Z",
+            "formattedDate": "April 10, 2017",
+            "tags": [],
+            "readingTime": 2.31,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Blog Author",
+                "url": "http://twitter.com/"
+              }
+            ],
+            "frontMatter": {
+              "title": "New Blog Post",
+              "author": "Blog Author",
+              "authorURL": "http://twitter.com/",
+              "authorFBID": 100002976521003
+            },
+            "prevItem": {
+              "title": "Adding RSS Support - RSS Truncation Test",
+              "permalink": "/blog/2017/09/25/testing-rss"
+            },
+            "nextItem": {
+              "title": "Blog Title",
+              "permalink": "/blog/2016/03/11/blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.\n\n<!--truncate-->\n\nMauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.\n\nNulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.\n\nPhasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis."
+        },
+        {
+          "id": "/2016/03/11/blog-post",
+          "metadata": {
+            "permalink": "/blog/2016/03/11/blog-post",
+            "source": "@site/blog/2016-03-11-blog-post.md",
+            "title": "Blog Title",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.",
+            "date": "2016-03-11T00:00:00.000Z",
+            "formattedDate": "March 11, 2016",
+            "tags": [],
+            "readingTime": 2.31,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Blog Author",
+                "url": "http://twitter.com/"
+              }
+            ],
+            "frontMatter": {
+              "title": "Blog Title",
+              "author": "Blog Author",
+              "authorURL": "http://twitter.com/",
+              "authorFBID": 100002976521003
+            },
+            "prevItem": {
+              "title": "New Blog Post",
+              "permalink": "/blog/2017/04/10/blog-post-two"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.\n\n<!--truncate-->\n\nMauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.\n\nNulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.\n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.\n\nPhasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/2017/10/24/new-version-1.0.0",
+            "/2017/09/26/adding-rss",
+            "/2017/09/25/testing-rss",
+            "/2017/04/10/blog-post-two",
+            "/2016/03/11/blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 5,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/help",
+        "source": "@site/src/pages/help.md",
+        "title": "help page",
+        "description": "Contact us",
+        "frontMatter": {
+          "title": "help page",
+          "description": "Contact us",
+          "hide_table_of_contents": true
+        }
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "precision_agriculture",
+  "id": "precision_agriculture",
+  "title": "Precision Agriculture",
+  "description": "Remote sensing has as one of its objectives, to be able to provide useful information in the shortest possible time for decision-making. Therefore, it is considered a fundamental tool in precision agriculture, since it allows the monitoring of crops throughout the growing season, providing timely information as a diagnostic evaluation. This task must identify the factor that operates in a restrictive manner and decide, in a timely manner, on corrective agronomic intervention.",
+  "source": "@site/../docs/PRECISION_AGRICULTURE.md",
+  "sourceDirName": ".",
+  "slug": "/precision_agriculture",
+  "permalink": "/docs/precision_agriculture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "precision_agriculture",
+    "title": "Precision Agriculture",
+    "sidebar_label": "Precision Agriculture"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Photovoltaic Fault Detector",
+    "permalink": "/docs/detection_models"
+  },
+  "next": {
+    "title": "Models Deployment",
+    "permalink": "/docs/deployment"
+  }
+}

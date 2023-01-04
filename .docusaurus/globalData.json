@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "developers",
+          "docs": [
+            {
+              "id": "code_of_conduct",
+              "path": "/docs/code_of_conduct",
+              "sidebar": "docs"
+            },
+            {
+              "id": "contributing",
+              "path": "/docs/contributing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "deployment",
+              "path": "/docs/deployment",
+              "sidebar": "docs"
+            },
+            {
+              "id": "detection_models",
+              "path": "/docs/detection_models",
+              "sidebar": "docs"
+            },
+            {
+              "id": "developers",
+              "path": "/docs/developers",
+              "sidebar": "docs"
+            },
+            {
+              "id": "precision_agriculture",
+              "path": "/docs/precision_agriculture",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/developers",
+                "label": "developers"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

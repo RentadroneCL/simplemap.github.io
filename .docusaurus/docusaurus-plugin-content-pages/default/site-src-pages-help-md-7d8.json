@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/help",
+  "source": "@site/src/pages/help.md",
+  "title": "help page",
+  "description": "Contact us",
+  "frontMatter": {
+    "title": "help page",
+    "description": "Contact us",
+    "hide_table_of_contents": true
+  }
+}

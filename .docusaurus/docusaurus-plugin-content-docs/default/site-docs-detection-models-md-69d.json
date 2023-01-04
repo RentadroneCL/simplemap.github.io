@@ -1,0 +1,30 @@
+{
+  "unversionedId": "detection_models",
+  "id": "detection_models",
+  "title": "Photovoltaic Fault Detector",
+  "description": "Deep learning application for fault detection in photovoltaic plants. Trained detection models that point out where the panel faults are by using radiometric thermal infrared pictures, as well as a tutorial on how to use these algorithms in your own thermal photos. It also shows a step by step to train these models with its own database, in order to properly adjust the model to its particularity.",
+  "source": "@site/../docs/DETECTION_MODELS.md",
+  "sourceDirName": ".",
+  "slug": "/detection_models",
+  "permalink": "/docs/detection_models",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "detection_models",
+    "title": "Photovoltaic Fault Detector",
+    "sidebar_label": "Photovoltaic Fault Detector"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Developers",
+    "permalink": "/docs/developers"
+  },
+  "next": {
+    "title": "Precision Agriculture",
+    "permalink": "/docs/precision_agriculture"
+  }
+}

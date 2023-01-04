@@ -1,0 +1,26 @@
+{
+  "unversionedId": "code_of_conduct",
+  "id": "code_of_conduct",
+  "title": "Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/../docs/CODE_OF_CONDUCT.md",
+  "sourceDirName": ".",
+  "slug": "/code_of_conduct",
+  "permalink": "/docs/code_of_conduct",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "code_of_conduct",
+    "title": "Code of Conduct",
+    "sidebar_label": "Code of Conduct"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Contributing guidelines",
+    "permalink": "/docs/contributing"
+  }
+}

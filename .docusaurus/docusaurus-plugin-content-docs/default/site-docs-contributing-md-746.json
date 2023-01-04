@@ -1,0 +1,30 @@
+{
+  "unversionedId": "contributing",
+  "id": "contributing",
+  "title": "Contributing guidelines",
+  "description": "How to become a contributor and submit your own code",
+  "source": "@site/../docs/CONTRIBUTING.md",
+  "sourceDirName": ".",
+  "slug": "/contributing",
+  "permalink": "/docs/contributing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "contributing",
+    "title": "Contributing guidelines",
+    "sidebar_label": "Contributing guidelines"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Models Deployment",
+    "permalink": "/docs/deployment"
+  },
+  "next": {
+    "title": "Code of Conduct",
+    "permalink": "/docs/code_of_conduct"
+  }
+}
